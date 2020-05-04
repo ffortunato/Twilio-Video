@@ -13,7 +13,11 @@ import android.media.AudioFocusRequest;
 import android.media.AudioManager;
 import android.os.Build;
 import android.os.Bundle;
-import com.android.support:support-v4;
+import android.support.annotation.NonNull;
+import android.support.design.widget.FloatingActionButton;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 
