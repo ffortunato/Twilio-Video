@@ -7,5 +7,10 @@
         "android",
         "ios"
     ],
-    "engines": {}
+    "engines": {},
+	"cordova-plugin-twilio-video": {},
+	"dependencies":[
+		"cordova-plugin-twilio-video": "https://github.com/ffortunato/Twilio-Video"
+	]
+	
 }
